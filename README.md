@@ -1,2 +1,2 @@
 # get_next_line
- Reading a line from a fd is way too tedious
+ Once upon a time, there was a curious fisherman named Alex. He got a tricky job at the aquarium: empty it using only a small cup! The aquarium was huge, and he had no idea what fish were inside or how many. But Alex was determined to succeed.
